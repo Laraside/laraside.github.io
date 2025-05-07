@@ -1,0 +1,7 @@
+title: "Laraside's Blog"
+description: "Bienvenue sur le blog de Laraside"
+theme: jekyll-theme-architect
+baseurl: "" # Laissez vide si le dépôt est directement à la racine (https://laraside.github.io/)
+permalink: /:year/:month/:day/:title.html # Format des URLs des articles
+show_downloads: true
+google_analytics: # 
