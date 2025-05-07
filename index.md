@@ -17,8 +17,6 @@ Voici mes derniers articles :
 
 
 
-[Link to another page](./another-page.html).
-
 
 
 # Header 1
