@@ -9,7 +9,7 @@ categories: [blog, jekyll]
 
 Bienvenue !
 
-[Newbie](assets/image/newbie.png)
+<img src="/assets/image/newbie.png" alt="Newbie" width="300" height="300">
 
 L'anticipation des dossiers parcoursup de mon fils m'ont fait m'intéresser au codage (Python, Gdscript sur Godot, C# sur Unity). 
 
