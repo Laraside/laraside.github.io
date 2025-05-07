@@ -16,4 +16,4 @@ I'm quite fluent in english so i can use unity tutorials to learn.
 
 It makes code learning easier too.
 
-(assets/image/newbie.png)
+![Newbie](/assets/image/newbie.png)
